@@ -17,4 +17,4 @@ project/plugins/project/
 .worksheet
 
 # IDEA specidifc
-.idea
+.idea/*

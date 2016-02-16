@@ -2,6 +2,8 @@ package Lesson01
 
 /**
   * Created by Oleg_Khomutov on 2/14/2016.
+  *
+  * Task description located here -> https://codility.com/programmers/task/binary_gap/
   */
 class BinaryGap {
   def solution(N: Int): Int = {
